@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pinak</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://matrixninja.netlify.app/)
 
 - 📫 How to reach me **pinakfaldu123@gmail.com**
 
